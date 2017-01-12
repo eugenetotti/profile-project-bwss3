@@ -1,1 +1,3 @@
-"# profile-project-bwss3" 
+## PROFILE PROJECT BWSS3
+
+just a simple project for education
